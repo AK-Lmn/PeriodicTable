@@ -1,5 +1,4 @@
-const periodictabledata = [
-    {
+export const elements = [    {
         name: "Hydrogen",
         atomicnumber: 1,
         symbol: "H",
