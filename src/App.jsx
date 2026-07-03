@@ -40,7 +40,14 @@ function App() {
   return (
     <main className="app">
       <header className="topbar">
-        <h1>Periodic Table</h1>
+        <div className="brand-copy">
+          <p className="brand-label">Chemistry Hub Mini Tool</p>
+          <h1>Periodic Table</h1>
+          <p className="brand-subtitle">
+            Explore elements, categories, and atomic properties in one
+            interactive table.
+          </p>
+        </div>
 
         <input
           type="text"
