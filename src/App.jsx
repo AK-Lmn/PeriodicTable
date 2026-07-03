@@ -78,8 +78,8 @@ function App() {
     <main className="app">
       <header className="topbar">
         <div className="brand-copy">
-          <p className="brand-label">Chemistry Hub Mini Tool</p>
-          <h1>Periodic Table</h1>
+          <p className="brand-label">ChemKit Mini Tool</p>
+          <h1>Element Explorer</h1>
           <p className="brand-subtitle">
             Explore elements, categories, and atomic properties in one
             interactive table.
